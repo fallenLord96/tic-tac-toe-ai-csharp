@@ -1,0 +1,11 @@
+C:\Users\bigis\source\repos\Tic Tac Toe AI Game\Tic Tac Toe AI Game\bin\Debug\Tic Tac Toe AI Game.exe.config
+C:\Users\bigis\source\repos\Tic Tac Toe AI Game\Tic Tac Toe AI Game\bin\Debug\Tic Tac Toe AI Game.exe
+C:\Users\bigis\source\repos\Tic Tac Toe AI Game\Tic Tac Toe AI Game\bin\Debug\Tic Tac Toe AI Game.pdb
+C:\Users\bigis\source\repos\Tic Tac Toe AI Game\Tic Tac Toe AI Game\obj\Debug\Tic Tac Toe AI Game.csprojAssemblyReference.cache
+C:\Users\bigis\source\repos\Tic Tac Toe AI Game\Tic Tac Toe AI Game\obj\Debug\Tic_Tac_Toe_AI_Game.Form1.resources
+C:\Users\bigis\source\repos\Tic Tac Toe AI Game\Tic Tac Toe AI Game\obj\Debug\Tic_Tac_Toe_AI_Game.Properties.Resources.resources
+C:\Users\bigis\source\repos\Tic Tac Toe AI Game\Tic Tac Toe AI Game\obj\Debug\Tic Tac Toe AI Game.csproj.GenerateResource.cache
+C:\Users\bigis\source\repos\Tic Tac Toe AI Game\Tic Tac Toe AI Game\obj\Debug\Tic Tac Toe AI Game.csproj.CoreCompileInputs.cache
+C:\Users\bigis\source\repos\Tic Tac Toe AI Game\Tic Tac Toe AI Game\obj\Debug\Tic Tac Toe AI Game.exe
+C:\Users\bigis\source\repos\Tic Tac Toe AI Game\Tic Tac Toe AI Game\obj\Debug\Tic Tac Toe AI Game.pdb
+C:\Users\bigis\source\repos\Tic Tac Toe AI Game\Tic Tac Toe AI Game\obj\Debug\Tic_Tac_Toe_AI_Game.Form2.resources
